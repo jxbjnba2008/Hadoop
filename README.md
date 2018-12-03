@@ -1,19 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Hadoop学习笔记
 
-You can use the [editor on GitHub](https://github.com/jxbjnba2008/Hadoop/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+# 一、 Hadoop安装
+## Hadoop集群可以部署在物理服务器上，也可以部署在虚拟机里，也可以部署在容器里，这笔使用容器进行Hadoop安装学习
+注意：下载已经安装了Hadoop的容器镜像，就不需要再安装部署Hadoop软件
+## 1.1 安装JDK
 
 - Bulleted
 - List
