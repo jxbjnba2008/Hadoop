@@ -24,7 +24,7 @@ java -version
 ```
 ### source /etc/profile使环境变量生效，查看java版本，如能看到版本号，说明JAVA环境配置成功。
 ## 1.2 安装hadoop
-### 可以从官方网站下载编译好的hadoop(http://hadoop.apache.org/releases.html#Download),但是官方提供的已经编译好的hadoop，在CentOS 64位机器上使用是有问题的，我们需要自己编译的hadoop。
+### 可以从官方网站下载编译好的hadoop(http://hadoop.apache.org/releases.html#Download), 但是官方提供的已经编译好的hadoop，在CentOS 64位机器上使用是有问题的，我们需要自己编译的hadoop。
 注意：容器在编译时已经安装了hadoop，不需要再安装hadoop了。如果其他容器，还是需要安装hadoop。
 ### 1.2.1 从交大服务器上下载编译好的hadoop
 ```
